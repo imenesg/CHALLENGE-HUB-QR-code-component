@@ -1,0 +1,32 @@
+.card{
+    background-color: hsl(0, 0%, 100%);
+
+    padding: 1rem;
+
+    border-radius: 1rem;
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 100%;
+
+    max-width: 300px;
+}
+
+.card img{
+    border-radius: 1rem;
+}
+
+.card h2{
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-weight: 700;
+    color: hsl(220°, 15%, 55%);
+}
+.card p{
+    font-size: 1rem;
+    margin-top: 1rem;
+    color: hsl(220°, 15%, 55%);
+}
